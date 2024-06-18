@@ -3,10 +3,6 @@ import './About.css'
 import theme_pattern from '../../assets/theme_pattern.svg'
 import profile_img from '../../assets/about_profile.svg'
 import ishan2 from '../../assets/ishan2.svg'
-
-
-
-
 const paragraphStyles = {
   WebkitLineClamp:4, 
   WebkitBoxOrient:'vertical',
