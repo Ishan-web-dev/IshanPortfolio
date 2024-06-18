@@ -8,7 +8,7 @@ import ishan2 from '../../assets/ishan2.svg'
 
 
 const paragraphStyles = {
-  WebkitLineClamp:3, 
+  WebkitLineClamp:4, 
   WebkitBoxOrient:'vertical',
   overflow:'hidden',
   display:'-webkit-box',
